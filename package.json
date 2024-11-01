@@ -2,7 +2,7 @@
     "name": "choco.ice.moremi",
     "version": "1.0.0",
     "description": "Choco-Ice-Moremi's Open Source code",
-    "main": "src/index.js",
+    "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
