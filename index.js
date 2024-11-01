@@ -1,5 +1,12 @@
 require("dotenv").config();
 const { Client, IntentsBitField } = require("discord.js");
+const { CommandHandler } = require("djs-commander");
+const path = require("path");
+
+new CommandHandler({
+  client,
+  commandsPath: path.join(__dirname, "commands"),
+});
 
 const client = new Client({
   intents: [

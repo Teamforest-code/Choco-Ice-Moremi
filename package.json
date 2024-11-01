@@ -10,6 +10,12 @@
       "type": "git",
       "url": "git+https://github.com/cookedas1/Choco-Ice-Moremi.git"
     },
+    "dependencies": {
+        "discord.js": "14.16.3",
+        "dotenv": "16.4.5",
+        "axios": "1.7.7",
+        "cheerio": "1.0.0"
+      },
     "keywords": [],
     "author": "cookedas1",
     "license": "ISC",
