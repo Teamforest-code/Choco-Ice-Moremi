@@ -1,0 +1,11 @@
+{
+ "License": "이 레포지토리는 초코 아이스 모레미의 코드를 참고했습니다.",
+ "Maplecharinfo": "메이플캐릭터",
+ "Maplecharinfodesc": "메이플스토리의 캐릭터를 조회해요. (가입 불필요)",
+ "createuser": "가입",
+ "createuserdesc": "초코 아이스 모레미에 데이터베이스에 유저 정보를 넣어요.",
+ "userinfo": "유저정보",
+ "userinfodesc": "유저의 정보를 확인해요.",
+ "inventory": "인벤토리",
+ "inventorydesc": "자신의 인벤토리를 확인해요."
+}
